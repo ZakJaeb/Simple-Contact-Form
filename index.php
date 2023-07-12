@@ -13,11 +13,11 @@
     E-mail: <input type="text" name="email"><br>
     <br>
     What is your Issue?:
-        <select name="formIssue">
-        <option value="Q">Query</option>
-        <option value="F">Feedback</option>
-        <option value="C">Complaint</option>
-        <option value="O">Other</option>
+        <select name="Issue">
+        <option value="Query">Query</option>
+        <option value="Feedback">Feedback</option>
+        <option value="Complaint">Complaint</option>
+        <option value="Other">Other</option>
         </select>
     <br>
     <br>
